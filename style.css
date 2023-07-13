@@ -1,0 +1,20 @@
+body{
+    margin: 200px 400px 200px 400px;
+    background-image: url(./cars\ and\ bikes.jpg);
+}
+h2{
+    background-color:rgb(64, 3, 248);
+    display: flex;
+    justify-content: space-around;
+    
+}
+h3{
+    color: rgb(214, 35, 193);
+    display:flex;
+    justify-content: center;
+}
+.main{
+    display: flex;
+     justify-content:space-around;
+     background-color:rgb(255, 255, 255) ;
+     background: rgb(0, 0, 0,0.66);}
